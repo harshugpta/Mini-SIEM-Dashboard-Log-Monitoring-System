@@ -3,7 +3,7 @@
 A logging and monitoring system that tracks authentication events, detects suspicious patterns, and provides real-time visualization. The project 
 simulates basic security monitoring for authentication activity. 
 
-🌐 **Live Demo**: [siemnss.ddns.net](http://siemnss.ddns.net)
+
 
 ## **Table of Contents**  
 - [**Overview**](#overview)
@@ -313,17 +313,7 @@ graph TB
 ---
 
 ## **Additional Documentation**  
-More details, including system architecture, diagrams, and technical documentation, can be found in the [Project Wiki](https://github.com/B4SEE/Simplified_SIEM/wiki).  
+
 
 ---
-
-## **Team Members & Contact**  
-| Name              | Role                           | Contact Info                          |
-|-------------------|--------------------------------|---------------------------------------|
-| B4SEE             | Algorithms Backend & Team Lead | [GitHub](https://github.com/B4SEE)    |
-| M2kura            | Backend Developer 1            | [GitHub](https://github.com/M2kura)   |
-| ponny12           | Backend Developer 2            | [GitHub](https://github.com/ponny12)  |
-| mamaegeo          | Frontend Developer 1           | [GitHub](https://github.com/mamaegeo) |
-| vhs-cake          | Frontend Developer 2           | [GitHub](https://github.com/vhs-cake) |
-
 
